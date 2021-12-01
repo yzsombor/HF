@@ -1,2 +1,5 @@
 print("Hello Palatin Zsombor!!!")
-print("============================")
+print("============================")
+for i in range(0,10):
+    print(i%7+i**2)
+
